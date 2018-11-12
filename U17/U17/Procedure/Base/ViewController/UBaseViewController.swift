@@ -26,7 +26,7 @@ class UBaseViewController: UIViewController {
         
         configUI()
     }
-    
+//备注信息
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
         configNavigationBar()
